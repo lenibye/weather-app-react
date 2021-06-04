@@ -11,6 +11,7 @@ function App() {
           <Search />
         </p>
         <h2 id="h2"> </h2>
+        <footer> <a href="https://github.com/lenibye/weather-app-react">GitHub Rep</a></footer>
       </div>
     </div>
   );
